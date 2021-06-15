@@ -1,0 +1,14 @@
+{
+  "name": "export-excel-node",
+  "version": "1.0.0",
+  "description": "Example project implementing export excel file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Ignacio Benito",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
